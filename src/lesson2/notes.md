@@ -104,7 +104,7 @@ Getting the position of our value
 ```python
 animals = ['dog', 'bird', 'cat', 'monkey']
 
-print(animals.index())  # 1
+print(animals.index('bird'))  # 1
 ```
 
 <br />
